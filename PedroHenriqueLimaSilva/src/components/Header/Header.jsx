@@ -3,11 +3,11 @@ function Header(){
         <>
             <header>
                 <ul>
-                    <li>Inicio</li>
-                    <li>Filmes</li>
-                    <li>Series</li>
+                    <li>Home</li>
+                    <li>Pricing</li>
+                    <li>About</li>
                 </ul>
-                <h2> Eu sou a header</h2>
+            
             </header>
         </>
     );
