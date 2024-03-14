@@ -1,3 +1,9 @@
+## Entreguei o projeto da forma que consegui fazer, espero conseguir melhorar um pouco mais a pagina hoje (14-03-24)
+Ate mais.
+
+
+
+
 # ProjetoModulo2React
 
 ## Projeto destinado a criação de uma pagina web em React
