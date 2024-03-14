@@ -1,5 +1,3 @@
-30 min
-
 
 https://react.dev/learn
 https://styled-components.com/
